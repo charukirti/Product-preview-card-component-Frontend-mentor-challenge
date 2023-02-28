@@ -24,13 +24,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+# Mobile preview
+![product-preview-card-component-mobile-layout](https://user-images.githubusercontent.com/108792404/221782082-07127e36-9a25-49b0-884d-c1cdb2f68c27.png)
 
+# Desktop Preview
+![Product-preview-card](https://user-images.githubusercontent.com/108792404/221782114-ac561149-8faf-43bb-a124-73f929c289dd.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Product preview card](https://github.com/charukirti/Product-preview-card-component-Frontend-mentor-challenge)
+- Live Site URL: [Product preview card](https://fmc-product-preview-card-component.netlify.app/)
 
 ## My process
 
